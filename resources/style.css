@@ -19,6 +19,10 @@ h2{
   font-size:32px;
   font-weight:bold;
 }
+h3{
+  font-size:23px;
+  font-weight:bold;
+}
 p{
   font-size:14px;
 }
@@ -27,6 +31,13 @@ p{
   font-weight:bold;
   color:white;
   background-image: url("https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.png");
+}
+.black{
+  color:black;
+}
+h6{
+  text-align:left;
+  background-color:dimgray;
 }
 .copyright{
   font-size:11px;
